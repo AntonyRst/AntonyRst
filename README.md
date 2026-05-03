@@ -47,5 +47,5 @@ Editor: Helix
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonyRst&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AntonyRst&theme=dark&hide_border=true&locale=es" />
 </p>
