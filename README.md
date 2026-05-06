@@ -41,7 +41,7 @@
 OS:     Arch Linux
 WM:     i3
 Term:   Alacritty + Nushell
-Editor: Helix
+Editor: Nano
 ```
 
 ---
